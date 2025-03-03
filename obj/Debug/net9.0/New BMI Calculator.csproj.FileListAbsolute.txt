@@ -1,0 +1,15 @@
+C:\Users\ianro\Desktop\New BMI Calculator\bin\Debug\net9.0\New BMI Calculator.exe
+C:\Users\ianro\Desktop\New BMI Calculator\bin\Debug\net9.0\New BMI Calculator.deps.json
+C:\Users\ianro\Desktop\New BMI Calculator\bin\Debug\net9.0\New BMI Calculator.runtimeconfig.json
+C:\Users\ianro\Desktop\New BMI Calculator\bin\Debug\net9.0\New BMI Calculator.dll
+C:\Users\ianro\Desktop\New BMI Calculator\bin\Debug\net9.0\New BMI Calculator.pdb
+C:\Users\ianro\Desktop\New BMI Calculator\obj\Debug\net9.0\New BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianro\Desktop\New BMI Calculator\obj\Debug\net9.0\New BMI Calculator.AssemblyInfoInputs.cache
+C:\Users\ianro\Desktop\New BMI Calculator\obj\Debug\net9.0\New BMI Calculator.AssemblyInfo.cs
+C:\Users\ianro\Desktop\New BMI Calculator\obj\Debug\net9.0\New BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ianro\Desktop\New BMI Calculator\obj\Debug\net9.0\New BMI Calculator.sourcelink.json
+C:\Users\ianro\Desktop\New BMI Calculator\obj\Debug\net9.0\New BMI Calculator.dll
+C:\Users\ianro\Desktop\New BMI Calculator\obj\Debug\net9.0\refint\New BMI Calculator.dll
+C:\Users\ianro\Desktop\New BMI Calculator\obj\Debug\net9.0\New BMI Calculator.pdb
+C:\Users\ianro\Desktop\New BMI Calculator\obj\Debug\net9.0\New BMI Calculator.genruntimeconfig.cache
+C:\Users\ianro\Desktop\New BMI Calculator\obj\Debug\net9.0\ref\New BMI Calculator.dll
