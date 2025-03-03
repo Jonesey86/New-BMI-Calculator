@@ -51,7 +51,7 @@ namespace BMICalculator
                 }
 
 
-                // Display results from input in BMI Calculator
+                // After calculations are complete, Display results from input in BMI Calculator for user
                 Console.WriteLine($"Your BMI is {bmi:F2}. You are classified as: {category}");
 
                 //options to exit and or continue
