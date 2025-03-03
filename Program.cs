@@ -25,7 +25,7 @@ namespace BMICalculator
                 double heightInCm = Convert.ToDouble(Console.ReadLine());
                 double height = heightInCm / 100;
 
-                // Calculate BMI input from user
+                // After recieving data from user, Calculate BMI input from user
                 double bmi = weight / (height * height);
 
                 // BMI Categories // There are 4 different categories you  can be placed into:
