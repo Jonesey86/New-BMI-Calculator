@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("New BMI Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e392340310c1efc3b182fea692fb8d9c9deb37d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72319c67a5bdaac324a127bc4a92d285e13ab5af")]
 [assembly: System.Reflection.AssemblyProductAttribute("New BMI Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("New BMI Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
