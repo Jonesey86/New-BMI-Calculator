@@ -19,7 +19,7 @@ namespace BMICalculator
             Console.WriteLine();
             while (true)
             {
-                // Get weight and height input from user
+                // Get weight and height input from user to input into the bmi calculator
                 double weight = GetValidInput("Enter weight in kilogram: ");
                 Console.WriteLine("Enter your height in centimeters: ");
                 double heightInCm = Convert.ToDouble(Console.ReadLine());
